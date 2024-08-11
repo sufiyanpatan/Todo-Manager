@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+#projects, #todos {
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+}
